@@ -1,0 +1,14 @@
+Workspace Setup
+
+Softwares Required
+	MongoDB
+	Java 1.8
+	Maven 3+
+	Tomcat 8
+	
+	
+- Start Mongo server
+	mongod.exe --dbpath c:\mongo_data\data
+	
+
+	
